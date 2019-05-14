@@ -1,2 +1,2 @@
 # ssm
-spring mvc /spring.mybaits
+spring mvc /spring/mybaits
